@@ -47,13 +47,13 @@ namespace TrabalhoPratico_POO.Models
             switch (opcao)
             {
                 case 1:
-                    CadastrarCondominio(condominioService);
+                    RegistarCondominio(condominioService);
                     break;
                 case 2:
                     ListarCondominios(condominioService);
                     break;
                 case 3:
-                    CadastrarMorador(moradorService);
+                    RegistarMorador(moradorService);
                     break;
                 case 4:
                     ListarMoradores(moradorService);
@@ -78,7 +78,7 @@ namespace TrabalhoPratico_POO.Models
         } while (opcao != 0);
     }
 
-    static void CadastrarCondominio(CondominioService condominioService)
+    static void RegistarCondominio(CondominioService condominioService)
     {
         Console.Write("Nome do Condomínio: ");
         string nomeCondominio = Console.ReadLine();
@@ -108,15 +108,15 @@ namespace TrabalhoPratico_POO.Models
 
     static void ListarCondominios(CondominioService condominioService)
     {
-        var condominios = condominioService.ListarCondominios();
         Console.WriteLine("\nLista de Condomínios:");
-        foreach (var condominio in condominios)
+            var condominios = condominioService.ListarCondominios();
+            foreach (var condominio in condominios)
         {
             Console.WriteLine($"ID: {condominio.Id}, Nome: {condominio.Nome}, Tipo: {condominio.Tipo}, Endereço: {condominio.Endereco}");
         }
     }
 
-    static void CadastrarMorador(MoradorService moradorService)
+    static void RegistarMorador(MoradorService moradorService)
     {
         Console.Write("ID do Condomínio: ");
         if (!int.TryParse(Console.ReadLine(), out int condominioId))

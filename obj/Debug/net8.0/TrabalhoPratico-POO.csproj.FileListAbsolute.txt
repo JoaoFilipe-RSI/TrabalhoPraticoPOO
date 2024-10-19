@@ -1,0 +1,14 @@
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\bin\Debug\net8.0\TrabalhoPratico-POO.exe
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\bin\Debug\net8.0\TrabalhoPratico-POO.deps.json
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\bin\Debug\net8.0\TrabalhoPratico-POO.runtimeconfig.json
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\bin\Debug\net8.0\TrabalhoPratico-POO.dll
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\bin\Debug\net8.0\TrabalhoPratico-POO.pdb
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.AssemblyInfoInputs.cache
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.AssemblyInfo.cs
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.csproj.CoreCompileInputs.cache
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.dll
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\refint\TrabalhoPratico-POO.dll
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.pdb
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\TrabalhoPratico-POO.genruntimeconfig.cache
+C:\Users\fferreira\source\repos\TrabalhoPratico-POO\obj\Debug\net8.0\ref\TrabalhoPratico-POO.dll
