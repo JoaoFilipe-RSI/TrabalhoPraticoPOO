@@ -1,0 +1,14 @@
+C:\Users\fferreira\source\repos\ProjetoCondominio\bin\Debug\net8.0\ProjetoCondominio.exe
+C:\Users\fferreira\source\repos\ProjetoCondominio\bin\Debug\net8.0\ProjetoCondominio.deps.json
+C:\Users\fferreira\source\repos\ProjetoCondominio\bin\Debug\net8.0\ProjetoCondominio.runtimeconfig.json
+C:\Users\fferreira\source\repos\ProjetoCondominio\bin\Debug\net8.0\ProjetoCondominio.dll
+C:\Users\fferreira\source\repos\ProjetoCondominio\bin\Debug\net8.0\ProjetoCondominio.pdb
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.AssemblyInfoInputs.cache
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.AssemblyInfo.cs
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.csproj.CoreCompileInputs.cache
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.dll
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\refint\ProjetoCondominio.dll
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.pdb
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ProjetoCondominio.genruntimeconfig.cache
+C:\Users\fferreira\source\repos\ProjetoCondominio\obj\Debug\net8.0\ref\ProjetoCondominio.dll
